@@ -34,5 +34,5 @@ http://www.msaez.io/#/storming/pgdJbGn4NPYfnMHR9xnCF72Qi1h1/mine/94074311dd5c4ea
 
 이벤트도출
 
-![event_1](https://user-images.githubusercontent.com/45332921/93048651-5930fa80-f69a-11ea-807a-e9d29623d927.jpg)
+![event_1](https://user-images.githubusercontent.com/45332921/93048866-cfcdf800-f69a-11ea-9cd4-11519e9a8316.jpg)
 
