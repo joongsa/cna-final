@@ -24,6 +24,12 @@
 
   ● 배정관리 서비스가 되지않더라도 예약접수는 정상적으로 처리가 되어야한다. Async (event-driven)
   ●   Circuit breaker, fallback 처리 필요
-  ●  이벤트 스토밍
+
+
+
+Event Storming 결과
   
 http://www.msaez.io/#/storming/pgdJbGn4NPYfnMHR9xnCF72Qi1h1/mine/94074311dd5c4ead0bc1936dd945e6cf/-MGmV94Ai9-jH80BbfDO
+
+
+이벤트도출
