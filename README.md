@@ -39,3 +39,12 @@ http://www.msaez.io/#/storming/pgdJbGn4NPYfnMHR9xnCF72Qi1h1/mine/94074311dd5c4ea
 ### 부적격 이벤트 탈락
 
 ![event_2](https://user-images.githubusercontent.com/45332921/93048891-e3795e80-f69a-11ea-8c4b-2cefe99b1131.jpg)
+
+### 완성된 1차 모형
+
+![event_3](https://user-images.githubusercontent.com/45332921/93049881-e1b09a80-f69c-11ea-9a48-0bd095c3ec0d.jpg)
+
+
+    - View Model 추가중
+    
+    
