@@ -74,5 +74,8 @@ http POST localhost:8088/reservations productId=1
 # 취소처리
 http PATCH localhost:8088/reservations/8 status="예약취소"
 
+# 에약정보 확인
+?????
+
 ```
 
