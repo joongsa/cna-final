@@ -79,3 +79,10 @@ http PATCH localhost:8088/reservations/8 status="예약취소"
 
 ```
 
+
+
+## 동기식 호출 과 Fallback 처리
+
+예약과 재고확인/재고변경 호출은 동기식 트랜잭션으로 처리 
+
+## 비동기식 호출
