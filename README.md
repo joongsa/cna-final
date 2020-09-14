@@ -59,7 +59,14 @@ http://www.msaez.io/#/storming/pgdJbGn4NPYfnMHR9xnCF72Qi1h1/mine/94074311dd5c4ea
     
 # 구현:
 
-- 적용 후 REST API 의 테스트
+## DDD 의 적용
+- 각 서비스내에 도출된 핵심 객체를 Entity 로 선언
+  - 주문
+  - 배정
+  - 상품
+
+
+## 적용 후 REST API 의 테스트
 ```
 # 예약처리
 http POST localhost:8088/reservations productId=1
