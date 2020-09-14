@@ -48,3 +48,24 @@ http://www.msaez.io/#/storming/pgdJbGn4NPYfnMHR9xnCF72Qi1h1/mine/94074311dd5c4ea
     - View Model 추가중
     
     
+### 1차 완성본에 대한 기능적/비기능적 요구사항을 커버하는지 검증
+    - 고객이 상품을 선택하여 주문한다. (OK)
+    - 주문하면 상품재고를 판단하여 예약신청 or 예약불가 처리한다. (OK)
+    - 예약신청이 되면 재고가 변경되고, 대리점선택되어 예약이 접수된다. (OK)
+    
+    - 고객이 예약을 취소한다. (OK)
+    - 예약이 취소되면 대리점배정이 취소되고, 재고가 변경된다. (OK)
+    
+    
+# 구현:
+
+- 적용 후 REST API 의 테스트
+```
+# 예약처리
+http POST localhost:8088/reservations productId=1
+
+# 취소처리
+http PATCH localhost:8088/reservations/8 status="예약취소"
+
+```
+
