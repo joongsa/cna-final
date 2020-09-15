@@ -91,4 +91,8 @@ http PATCH localhost:8088/reservations/8 status="예약취소"
 
 ## 서킷 브레이킹 
 
-## 오토스케일 아웃
+## SAGA 패턴
+
+## CQRS
+
+## 
